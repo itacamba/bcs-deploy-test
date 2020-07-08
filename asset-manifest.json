@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/bcs-deploy-test/static/css/main.27c8d419.chunk.css",
+    "main.js": "/bcs-deploy-test/static/js/main.f90f0a8b.chunk.js",
+    "main.js.map": "/bcs-deploy-test/static/js/main.f90f0a8b.chunk.js.map",
+    "runtime-main.js": "/bcs-deploy-test/static/js/runtime-main.b3da0f93.js",
+    "runtime-main.js.map": "/bcs-deploy-test/static/js/runtime-main.b3da0f93.js.map",
+    "static/js/2.1c2127ab.chunk.js": "/bcs-deploy-test/static/js/2.1c2127ab.chunk.js",
+    "static/js/2.1c2127ab.chunk.js.map": "/bcs-deploy-test/static/js/2.1c2127ab.chunk.js.map",
+    "index.html": "/bcs-deploy-test/index.html",
+    "precache-manifest.b7449c959dda70d998943c54d3ffda3a.js": "/bcs-deploy-test/precache-manifest.b7449c959dda70d998943c54d3ffda3a.js",
+    "service-worker.js": "/bcs-deploy-test/service-worker.js",
+    "static/css/main.27c8d419.chunk.css.map": "/bcs-deploy-test/static/css/main.27c8d419.chunk.css.map",
+    "static/js/2.1c2127ab.chunk.js.LICENSE.txt": "/bcs-deploy-test/static/js/2.1c2127ab.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/bcs-deploy-test/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b3da0f93.js",
+    "static/js/2.1c2127ab.chunk.js",
+    "static/css/main.27c8d419.chunk.css",
+    "static/js/main.f90f0a8b.chunk.js"
+  ]
+}
